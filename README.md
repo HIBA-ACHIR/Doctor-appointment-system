@@ -75,7 +75,6 @@ Server Software: 	`Apache/2.4.39 (Win64) PHP/7.3.5`
 
 MySQL Version: 		`5.7.26`
 
-Demo video: https://youtu.be/mAWHYAHmit4
 
 
 
